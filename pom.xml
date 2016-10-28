@@ -11,6 +11,7 @@
     <name>springcloud-zookeeper-example</name>
 
     <modules>
+        <module>springcloud-zookeeper-api</module>
         <module>springcloud-zookeeper-service</module>
         <module>springcloud-zookeeper-consumer</module>
         <module>springcloud-zookeeper-hystrixdashboard</module>
